@@ -1,0 +1,4 @@
+android-preferences
+===================
+
+Simple SharedPreferences
